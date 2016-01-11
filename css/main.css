@@ -57,6 +57,7 @@ a {
 
 a:hover {
 	color: #02b8dd;
+	transition: 0.3s all ease-in-out;
 }
 
 strong {
@@ -142,6 +143,7 @@ Section 2: Hero Image
 .button-1:hover {
 	background-color: #02b8dd;
 	color: #fff;
+	transition: 0.3s all ease-in-out;
 }
 
 /*Section 3: Features
@@ -229,6 +231,7 @@ article h4 {
 .more-link:hover {
 	background-color: #02b8dd;
 	color: #fff;
+	transition: 0.3s all ease-in-out;
 }
 /*Section 6: Call to Action
 We use the same custom styling for <h3> here and also define the styles for the outlined button and its hover state*/
@@ -260,6 +263,7 @@ We use the same custom styling for <h3> here and also define the styles for the 
 .button-2:hover {
 	background-color: #02b8dd;
 	color: #fff;
+	transition: 0.3s all ease-in-out;
 }
 /*Section 7: Footer
 We split the footer into two main columns with a float: left attribute on both #footer-info and #footer-links. And use the same method to split the #footer-links section into 3 horizontal unordered lists.*/
